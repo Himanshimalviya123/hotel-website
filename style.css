@@ -44,10 +44,22 @@
 #s{
     width: 100%;
     height: 90%;
-    gap: 10px;
+    gap: 5%;
     margin-left: 10PX;
     display: flex;
     /* height:50%; */
     display: flex;
   
+}
+
+
+#box-1{
+    width: 40%;
+    background-color:transparent;
+    font-size: xx-large;
+    color: aliceblue;
+    position: absolute;
+    top: 12rem;
+    z-index: 5;
+
 }
